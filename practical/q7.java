@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class InteractiveSum {
+public class q7 {
     public static void main(String[] args) {
         if (args.length < 1) {
             System.out.println("Usage: java InteractiveSum <num_integers>");
